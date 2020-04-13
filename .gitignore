@@ -18,6 +18,9 @@ target/
 *.iws
 *.iml
 *.ipr
+*.cmd
+*.md
+pom.xml
 
 ### NetBeans ###
 /nbproject/private/
@@ -27,5 +30,5 @@ target/
 /.nb-gradle/
 build/
 
-### VS Code ###
-.vscode/
+*.properties
+application.properties
